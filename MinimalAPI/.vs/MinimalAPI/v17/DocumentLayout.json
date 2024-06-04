@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|c:\\code\\c#\\minimal vs controller api\\minimal-vs-controller-api-asp.net\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|c:\\code\\c#\\minimal vs controller api\\minimal-vs-controller-api-asp.net\\minimalapi\\minimalapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|c:\\code\\c#\\minimal vs controller api\\minimal-vs-controller-api-asp.net\\minimalapi\\minimalapi\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|c:\\code\\c#\\minimal vs controller api\\minimal-vs-controller-api-asp.net\\minimalapi\\minimalapi\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623CD3C3-29BC-4546-866E-7CC34AA93F8D}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\C#\\Minimal vs Controller API\\MinimalAPI\\MinimalAPI\\SongDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "localDb.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\localDb.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\localDb.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\localDb.cs",
+              "RelativeToolTip": "MinimalAPI\\localDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:59:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Playlist.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Playlist.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Playlist.cs",
+              "RelativeToolTip": "MinimalAPI\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:52:55.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "RelativeToolTip": "MinimalAPI\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwGsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:42:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Song.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Song.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\Minimal-Vs-Controller-API-ASP.NET\\MinimalAPI\\MinimalAPI\\Song.cs",
+              "RelativeToolTip": "MinimalAPI\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:39:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongDb.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\MinimalAPI\\MinimalAPI\\SongDb.cs",
+              "RelativeDocumentMoniker": "..\\..\\MinimalAPI\\MinimalAPI\\SongDb.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\MinimalAPI\\MinimalAPI\\SongDb.cs",
+              "RelativeToolTip": "..\\..\\MinimalAPI\\MinimalAPI\\SongDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:49:06.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

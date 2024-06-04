@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\controllerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\controllerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|c:\\code\\c#\\minimal vs controller api\\controllerapi\\controllerapi\\controllerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C0D6BC1-50E4-4A5B-9F85-7556B04B2073}|ControllerAPI\\ControllerAPI.csproj|solutionrelative:controllerapi\\controllerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControllerAPI.http",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\ControllerAPI.http",
+              "RelativeDocumentMoniker": "ControllerAPI\\ControllerAPI.http",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\ControllerAPI.http",
+              "RelativeToolTip": "ControllerAPI\\ControllerAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-04T13:30:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Song.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\Song.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Song.cs",
+              "RelativeToolTip": "ControllerAPI\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:10:26.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "localDb.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\localDb.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\localDb.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\localDb.cs",
+              "RelativeToolTip": "ControllerAPI\\localDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:09:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistsController.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Controllers\\PlaylistsController.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\Controllers\\PlaylistsController.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Controllers\\PlaylistsController.cs",
+              "RelativeToolTip": "ControllerAPI\\Controllers\\PlaylistsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:08:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "ControllerAPI\\Controllers\\SongsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:07:43.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Playlist.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\Playlist.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Playlist.cs",
+              "RelativeToolTip": "ControllerAPI\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:05:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ControllerAPI\\Program.cs",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\Program.cs",
+              "RelativeToolTip": "ControllerAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:04:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControllerAPI",
+              "DocumentMoniker": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\ControllerAPI.csproj",
+              "RelativeDocumentMoniker": "ControllerAPI\\ControllerAPI.csproj",
+              "ToolTip": "C:\\Code\\C#\\Minimal vs Controller API\\ControllerAPI\\ControllerAPI\\ControllerAPI.csproj",
+              "RelativeToolTip": "ControllerAPI\\ControllerAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T13:02:41.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
